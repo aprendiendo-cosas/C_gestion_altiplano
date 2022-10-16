@@ -4,37 +4,36 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/main/images/negratin.jpeg) 
+![portada](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/negratin.jpeg?raw=true) 
 
 ## Ubicación
 
-Municipio de Almócita (Almería).
+Embalse del Negratín. Provincia de Granada.
 
 ## Introducción
 
-La gestión de los ecosistemas y sus recursos se realiza a muchas escalas y desde diferentes tipos de actores sociales, desde las herramientas y prácticas que se usan en un territorio concreto, hasta las políticas internacionales. Almócita tiene 200 habitantes y forma parte de la Red Terrae de municipios que enfocan su desarrollo rural desde la agroecología. En esta parada conoceremos iniciativas a escala municipal, tanto impulsadas desde el ámbito comunitario, como desde el privado y la administración pública. Paco nos contará cómo enfocan la gestión de su territorio desde el ayuntamiento. Zaida nos acompañará a la zona en la que llevan años con un proyecto de plantación de bosque mediterráneo, para reflexionar juntos sobre las dificultades y éxitos de este tipo de procesos de reforestación voluntaria. Paco y Maribel nos hablarán de los huertos comunitarios dentro del pueblo y las funciones ecológicas y sociales que cumplen. Matías compartirá la experiencia de Huerta Fanfara en la producción agroecológica de alimentos que abastecen tanto al pueblo como a consumidores en Granada.
+Los territorios más remotos y aparentemente pobres, a menudo sirven de sustrato para iniciativas particulares. En el Altiplano de Granada el agua es un bien muy preciado y disputado entre el consumo humano, la agricultura y la ganadería, así que hace años que un grupo de personas están desarrollando un sistema participativo para la gestión del agua del Guadiana Menor. Antonio y Mariló, miembros del Grupo de Desarrollo Rural de la zona compartirán con nosotros varias historias: la del [Contrato de Río](https://altiplanogranada.org/contratoderio/), la del [GeoParque](https://www.geoparquedegranada.com/) de Granada y la de las resistencias locales a megaproyectos de ganadería industrial y de desarrollo de plantas fotovoltaicas. 
 
 
 
 
 ## Objetivos docentes
-+ Aproximarnos y reflexionar sobre cuestiones de escala en la gobernanza para la gestión de los ecosistemas
-+ Reflexionar sobre los retos de la reforestación de zonas áridas en un contexto de cambio climático
-+ Conocer varias dimensiones del manejo agroecológico, como la conservación de la agrobiodiversidad, y sus impactos en los ecosistemas.
++ Conocer las peculiaridades geológicas de la zona y la modelos de gestión asociados
++ Entender cómo la complejidad de intereses en un territorio genera conflictos entre visiones y prioridades para la gestión y cómo ésto puede gestionarse de diferentes formas, también incluyendo la participación ciudadana
++ Reflexionar e inferir ventajas e inconvenientes de diferentes formas de lidiar con los conflictos entre usos.
 
 ## Anclajes conceptuales
 
 Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
-- Agroecología
-- Agrobiodiversidad
-- Desarrollo rural endógeno
-- Reforestación
-- Sucesión ecológica
+- participación en la gestión de la naturaleza
+- espacios protegidos con la figura de “geoparque”
+- ganadería industrial
+- energías renovables
 
 
 
-## Comentarios o reflexiones "al vuelo" (#gestion_local)
+## Comentarios o reflexiones "al vuelo" (#gestion_altiplano)
 
 
 
