@@ -37,3 +37,18 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 
 
+- La importancia que tiene hoy en día el conocimiento situado para que se articulen diferentes percepciones y miradas para tomar decisiones en una realidad que muchas veces es diferentes para todos!
+- Ser consecuentes con los recursos disponibles, y tratar de tomar medidas en base a dicho criterio (p.ej.: no plantar en regadío a lo largo de casi toda la depresión bética, más concretamente en los parajes naturales mas dependientes de los recursos hídricos, como p.ej. en las zonas próximas a Doñana)
+- Tener en cuenta a parte de las investigaciones científicas para ver las que se piensan que son mejores alternativas, contar con la parte social, y tener en cuenta las problemáticas que tienen las poblaciones de la zona, escuchar a la población. 
+- Existen proyectos sobre el uso de placas solares fotovoltaicas flotantes sobre embalses, estudiar su uso en la zona del embalse y aprovechar no sólo las repercusiones positivas de las placas sobre el embalse sino además la energía eléctrica que resulte del uso de las placas. 
+- la importancia de la participación social para fomentar la integración de la comunidad con el medio
+- debe haber un equilibrio entre la naturaleza y las construcciones hechas por el ser humano.
+- fomentar la buena participación ciudadana (no solo votar sino también que haya inclusión) y mantener informados a la población
+
+
+
+
+
+## Foto de grupo
+
+![portada](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/negratin.jpeg?raw=true)
