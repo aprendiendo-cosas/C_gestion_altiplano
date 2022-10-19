@@ -51,4 +51,4 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 ## Foto de grupo
 
-![portada](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/negratin.jpeg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/grupo_altiplano.jpg?raw=true)
