@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/negratin.jpeg?raw=true) 
+![portada](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/2022_2023/images/negratin.jpeg?raw=true) 
 
 ## Ubicación
 
@@ -51,12 +51,20 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 ## Algunas fotos
 
-![grupo](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/grupo_altiplano.jpg?raw=true)
+![grupo](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/2022_2023/images/grupo_altiplano.jpg?raw=true)
 
-![1](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/1.JPG?raw=true)
+![1](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/2022_2023/images/1.JPG?raw=true)
 
-![2](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/2.JPG?raw=true)
+![2](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/2022_2023/images/2.JPG?raw=true)
 
-![3](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/3.JPG?raw=true)
+![3](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/2022_2023/images/3.JPG?raw=true)
 
-![4](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/main/images/4.JPG?raw=true)
+![4](https://github.com/aprendiendo-cosas/C_gestion_altiplano_gesteco/blob/2022_2023/images/4.JPG?raw=true)
+
+
+
+## Vídeo realizado por los estudiantes
+
+
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/ZJAqij1RXGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
